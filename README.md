@@ -25,6 +25,6 @@ Please compile the source file with OpenGL in **proper** version.
 
 ### Some other thing:
 
-There is a strange thing that Cubic convolution interpolation does worth than Bilinear Interpolation as for "hw.bmp" in the repository. Who can explain this?
+There is a strange thing that Cubic convolution interpolation does worse than Bilinear Interpolation as for "hw.bmp" in the repository. Who can explain this?
 
 </font>
